@@ -1,0 +1,110 @@
+
+header{
+
+    background: url(./img/EIAfoto1_big\ .jpeg);
+width: 100%;
+background-repeat: no-repeat;
+min-height: 500px;
+text-align: right;
+background-size: cover;
+
+
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;
+
+}
+
+header a{
+  
+  text-align: right;
+margin-right: 20%;
+
+}
+header a{
+
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin-left: 20% ;
+}
+
+
+
+h1{ 
+
+  margin-left: 20% ;
+  margin-top: 1cm;
+}
+
+
+p{
+
+  margin-left: 20%;
+}
+
+
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-right: 40%;
+  margin-top: 2cm;
+  margin-left: 20%;
+  
+}
+
+.footerbox{
+  margin-top: 2cm;
+  background-color: rgb(182,182,182);
+  color: rgb(74, 73,73);
+  width: 100%;
+  height: 200px;
+  padding: 0;
+  text-align: center;
+  
+  }
+  
+  .spalte{
+  width: 400px;
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  footer a {
+  
+    width: 30px;
+  }
+
+  object{
+
+    width: 30px;
+  }
