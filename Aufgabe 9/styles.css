@@ -1,0 +1,70 @@
+.button {
+    height: 150px;
+    width: 150px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.button:hover {
+    transform: scale(0.98);
+}
+
+body {
+    background-color: #000000;
+}
+
+.drumpad {
+    text-align: center;
+}
+
+.play {
+    height: 150px;
+    width: 150px;
+    background-color: transparent;
+    border: 0px;
+}
+
+.play:hover {
+    transform: scale(1.05);
+}
+
+.shuffle:hover {
+    transform: scale(1.05);
+}
+
+.stop:hover {
+    transform: scale(1.05);
+}
+
+
+.blue {
+    background-color: #2d7ae2;
+    background: linear-gradient(#2d7ae2, #0b449f);
+}
+
+.orange {
+    background-color: #f6a33e;
+    background: linear-gradient(#f6a33e, #ae5d05);
+}
+
+.pink {
+    background-color: #ff5aae;
+    background: linear-gradient(#ff5aae, #d40871);
+}
+
+.control {
+    height: 150px;
+    width: 150px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 2px;
+    background-color: transparent;
+    margin: auto;
+    color: #ffffff;
+    font-size: 80px;
+}
+
+.record-active {
+    color: #ff0000;
+}
